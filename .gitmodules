@@ -1,0 +1,6 @@
+[submodule "ekumen-tourism-tracker-prototype-client"]
+	path = ekumen-tourism-tracker-prototype-client
+	url = git@github.com:jueltter/ekumen-tourism-tracker-prototype-client.git
+[submodule "ekumen-tourism-tracker-backend"]
+	path = ekumen-tourism-tracker-backend
+	url = git@github.com:jueltter/ekumen-tourism-tracker-backend.git
